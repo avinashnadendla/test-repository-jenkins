@@ -7,7 +7,7 @@ CORS(app)
 # Sample data
 chocolates = [
     {
-        "name": "Dark Chocolate",
+        "name": "Dark Chocolates",
         "image": "https://m.media-amazon.com/images/I/81EAqP0D0+L.jpg",
         "price": 5.99
     },
